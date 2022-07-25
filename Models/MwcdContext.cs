@@ -11,8 +11,8 @@ namespace Women_Empowerment.Models
         public MwcdContext(DbContextOptions <MwcdContext> options):base(options)
         {
 
-        }   
+        }
 
-
+        
     }
 }
