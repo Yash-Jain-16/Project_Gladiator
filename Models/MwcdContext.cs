@@ -13,6 +13,12 @@ namespace Women_Empowerment.Models
 
         }
 
-        
+        public DbSet<User> USERS { get; set; }
+        public DbSet<User> STEP_REGISTRATIONS { get; set; }
+        public DbSet<User> NGO_REGISTRATIONS { get; set; }
+        public DbSet<User> TRAINING_COURSES { get; set; }
+        public DbSet<User> Takes { get; set; }
+        public DbSet<User> Provides { get; set; }
+
     }
 }
