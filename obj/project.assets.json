@@ -5762,19 +5762,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\preet\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LTI_C#_Consoleapp\\Women_Empowerment\\Women_Empowerment.csproj",
+      "projectUniqueName": "D:\\git-project\\Project_Gladiator\\Project_Gladiator\\Women_Empowerment.csproj",
       "projectName": "Women_Empowerment",
-      "projectPath": "E:\\LTI_C#_Consoleapp\\Women_Empowerment\\Women_Empowerment.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "E:\\LTI_C#_Consoleapp\\Women_Empowerment\\obj\\",
+      "projectPath": "D:\\git-project\\Project_Gladiator\\Project_Gladiator\\Women_Empowerment.csproj",
+      "packagesPath": "C:\\Users\\preet\\.nuget\\packages\\",
+      "outputPath": "D:\\git-project\\Project_Gladiator\\Project_Gladiator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\preet\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5825,12 +5825,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.25, 3.1.25]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -5839,7 +5833,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
       }
     }
   }
